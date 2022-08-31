@@ -23,10 +23,10 @@ Check if phone is valid
 -  🌱 https://github.com/google/libphonenumber   
 
 Easy to use sharedpreferences 
--  🌱 implementation 'com.github.Bashirkhalil:PreferenceManager-lib:0.0.0'  ( My own lib :green_heart: )
+-  🌱 implementation 'com.github.Bashirkhalil:PreferenceManager-lib:0.0.0'  -  ( My own lib :green_heart: )   
 
 Easy to downladFile
--  🌱 mplementation 'com.github.Bashirkhalil:downloadFileManager-lib:1.0.0' ( My own lib :green_heart: )
+-  🌱 mplementation 'com.github.Bashirkhalil:downloadFileManager-lib:1.0.0' -  ( My own lib :green_heart: )
  
 
 
