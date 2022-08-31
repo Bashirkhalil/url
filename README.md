@@ -28,6 +28,35 @@ Easy to use sharedpreferences
 Easy to downladFile
 -  🌱 mplementation 'com.github.Bashirkhalil:downloadFileManager-lib:1.0.0' -  ( My own lib :green_heart: )
  
+Easy to genereate QR
+-  🌱  implementation("com.journeyapps:zxing-android-embedded:4.3.0")
+
+use activity utilities 
+-  🌱  implementation("com.blankj:utilcode:1.28.4") 
+ 
+ use vewipager indicator 
+-  🌱  implementation("me.relex:circleindicator:2.1.6")   
+
+ use animation view - blank etc 
+-  🌱  implementation("com.daimajia.androidanimations:library:2.4@aar")  
+
+  use to handle iamge from resourec -url -etc     
+-  🌱   def glideVersion = "4.13.2"
+-  
+    -implementation("com.github.bumptech.glide:glide:$glideVersion")
+    
+    -kapt("com.github.bumptech.glide:compiler:$glideVersion")
+
+
+
+
+
+
+
+
+
+
+
 
 
     implementation 'com.github.duanhong169:checkerboarddrawable:1.0.2'
