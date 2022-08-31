@@ -19,6 +19,16 @@ JsonViewr
 JSON to Kotlin
 -  🌱 https://json2kt.com/
 
+Check if phone is valid
+-  🌱 https://github.com/google/libphonenumber   
+
+Easy to use sharedpreferences 
+-  🌱 implementation 'com.github.Bashirkhalil:PreferenceManager-lib:0.0.0'  ( My own lib :green_heart: )
+
+Easy to downladFile
+-  🌱 mplementation 'com.github.Bashirkhalil:downloadFileManager-lib:1.0.0' ( My own lib :green_heart: )
+ 
+
 
     implementation 'com.github.duanhong169:checkerboarddrawable:1.0.2'
     implementation 'com.alexvasilkov:gesture-views:2.5.2'
