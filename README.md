@@ -48,8 +48,8 @@ use activity utilities
     -kapt("com.github.bumptech.glide:compiler:$glideVersion")
 
 
-
-
+ test you api over network ( sniffing data )
+-  🌱  shorturl.at/ijrCM 
 
 
 
