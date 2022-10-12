@@ -56,7 +56,7 @@ use activity utilities
 
 https://www.wanandroid.com/book/list
 
-
+https://filehippo.com/download_java-development-kit-64/post_download/
 
 
     implementation 'com.github.duanhong169:checkerboarddrawable:1.0.2'
